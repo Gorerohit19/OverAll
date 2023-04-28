@@ -1,0 +1,15 @@
+C:\Users\admin\HandsOn\AnalyticTest\bin\Debug\net6.0\AnalyticTest.exe
+C:\Users\admin\HandsOn\AnalyticTest\bin\Debug\net6.0\AnalyticTest.deps.json
+C:\Users\admin\HandsOn\AnalyticTest\bin\Debug\net6.0\AnalyticTest.runtimeconfig.json
+C:\Users\admin\HandsOn\AnalyticTest\bin\Debug\net6.0\AnalyticTest.dll
+C:\Users\admin\HandsOn\AnalyticTest\bin\Debug\net6.0\AnalyticTest.pdb
+C:\Users\admin\HandsOn\AnalyticTest\obj\Debug\net6.0\AnalyticTest.csproj.AssemblyReference.cache
+C:\Users\admin\HandsOn\AnalyticTest\obj\Debug\net6.0\AnalyticTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\HandsOn\AnalyticTest\obj\Debug\net6.0\AnalyticTest.AssemblyInfoInputs.cache
+C:\Users\admin\HandsOn\AnalyticTest\obj\Debug\net6.0\AnalyticTest.AssemblyInfo.cs
+C:\Users\admin\HandsOn\AnalyticTest\obj\Debug\net6.0\AnalyticTest.csproj.CoreCompileInputs.cache
+C:\Users\admin\HandsOn\AnalyticTest\obj\Debug\net6.0\AnalyticTest.dll
+C:\Users\admin\HandsOn\AnalyticTest\obj\Debug\net6.0\refint\AnalyticTest.dll
+C:\Users\admin\HandsOn\AnalyticTest\obj\Debug\net6.0\AnalyticTest.pdb
+C:\Users\admin\HandsOn\AnalyticTest\obj\Debug\net6.0\AnalyticTest.genruntimeconfig.cache
+C:\Users\admin\HandsOn\AnalyticTest\obj\Debug\net6.0\ref\AnalyticTest.dll
